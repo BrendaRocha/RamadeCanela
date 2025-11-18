@@ -1,0 +1,26 @@
+
+.lora-font {
+  font-family: "Lora", serif ;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.alex-brush-regular {
+    font-family: "Alex Brush", "cursive";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    color: black;
+}
+nav ul  {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style: none;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: #999999;
+
+}
